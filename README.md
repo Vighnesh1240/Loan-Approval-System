@@ -67,7 +67,7 @@ The system evaluates applicants across 28 engineered features and outputs an app
 ## 🗂️ Project Structure
 
 ```
-credit-risk-streamlit-app/
+Loan-Approval-System
 │
 ├── app.py                          # Main Streamlit application
 ├── loan_approval_data.csv          # Raw dataset
