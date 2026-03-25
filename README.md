@@ -71,7 +71,7 @@ credit-risk-streamlit-app/
 │
 ├── app.py                          # Main Streamlit application
 ├── loan_approval_data.csv          # Raw dataset
-├── CreditWise - Loan Approval System.ipynb  # Full ML notebook
+├── Loan_Approval_System.ipynb      # Full ML notebook
 ├── requirements.txt                # Python dependencies
 ├── .gitignore                      # Git ignore rules
 └── README.md                       # Project documentation
