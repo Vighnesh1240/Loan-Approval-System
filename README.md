@@ -4,6 +4,10 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-FF4B4B?style=flat-square&logo=streamlit)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?style=flat-square&logo=scikit-learn)
 
+> An end-to-end Machine Learning web application that predicts loan approval eligibility with real-time probability scoring — built with Scikit-learn and deployed on Streamlit Cloud.
+
+🔗 **Live App:** https://loan-approval-system-hvgu9tinmusygblerfswvo.streamlit.app/
+
 
 ---
 
